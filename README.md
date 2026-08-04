@@ -1,93 +1,90 @@
 # Olá 👋, Eu sou Nick Makleury
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+💻 **Desenvolvedor Full Stack**  
 🇧🇷 Brazil
 
-Desenvolvo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alto desempenho**.  
-Tenho um forte foco em **arquitetura, desempenho, código limpo e soluções orientadas ao negócio**.
+Desenvolvo **aplicações web**, **sistemas administrativos** e **soluções digitais**.
 
-Também crio conteúdo e compartilho conhecimento em **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
+Tenho foco em **organização**, **desempenho**, **escalabilidade**, **boas práticas** e **experiência do usuário**.
 
 ---
 
 ## 🌐 Onde me encontrar.
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/NickMakleury">
+    <img src="https://img.shields.io/badge/GitHub-NickMakleury-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nick-makleury">
+    <img src="https://img.shields.io/badge/LinkedIn-Nick%20Makleury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+  <!-- ALTERAR -->
+  <a href="mailto:britodealmeidan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.instagram.com/n_makleury">
+    <img src="https://img.shields.io/badge/Instagram-@nmakleury-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
 
 ---
 
 ## 🧠 O que eu faço
 
--   🏗️ SaaS e sistemas de alta escala
--   ⚡ Otimização de performance
--   🧩 Arquitetura limpa e design de sistemas
--   🔐 APIs seguras e autenticação
--   💳 Pagamentos, assinaturas e lógica de negócios
--   🤖 Automação e integrações
--   📊 Dashboards & análise de dados
--   🎓 Ensino e mentoria de desenvolvedores
+- 🌐 Desenvolvimento de aplicações web
+- ⚙️ Sistemas administrativos
+- 🗄️ Bancos de dados
+- 🔌 Integração com APIs e serviços
+- 📊 Dashboards e relatórios
+- 🎨 Interfaces responsivas
+- 🚀 Soluções para empresas
 
 ---
 
 ## 🛠️ Stack tecnológica
 
-### Frontend
+### 🌐 Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### Backend
+### ⚙️ Back-end
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### DevOps & Tools
+### 🗄️ Banco de Dados
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-ruddy-one-90.vercel.app/api?username=NickMakleury&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-ruddy-one-90.vercel.app/api/top-langs/?username=NickMakleury&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Filosofia
 
-> _"Código não é apenas resolver problemas.  
-> É sobre construir soluções que escalam, duram e geram valor real."_
+> _"O futuro não se escreve de uma só vez. Ele é construído de `commit` em `commit`."_
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere curtir um repositório  
-🤝 Sempre aberto a colaborações, parcerias e ideias legais
+⭐ Se você gostou dos meus projetos, considere deixar uma estrela.
+
+🤝 Sempre aberto a aprender, colaborar e participar de novos desafios.
