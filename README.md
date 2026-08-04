@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou Nick Makleury
 
 💻 **Desenvolvedor Full Stack**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 Desenvolvo **aplicações web**, **sistemas administrativos** e **soluções digitais**.
 
@@ -9,7 +9,7 @@ Tenho foco em **organização**, **desempenho**, **escalabilidade**, **boas prá
 
 ---
 
-## 🌐 Onde me encontrar.
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/NickMakleury">
@@ -23,8 +23,9 @@ Tenho foco em **organização**, **desempenho**, **escalabilidade**, **boas prá
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/n_makleury">
-    <img src="https://img.shields.io/badge/Instagram-@nmakleury-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@n__makleury-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
 
 ---
 
@@ -72,16 +73,23 @@ Tenho foco em **organização**, **desempenho**, **escalabilidade**, **boas prá
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-ruddy-one-90.vercel.app/api?username=NickMakleury&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-ruddy-one-90.vercel.app/api/top-langs/?username=NickMakleury&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-ruddy-one-90.vercel.app/api?username=NickMakleury&show_icons=true&theme=tokyonight&hide_border=true"
+    style="margin-right: 15px;"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-ruddy-one-90.vercel.app/api/top-langs/?username=NickMakleury&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 🚀 Filosofia
 
-> _"O futuro não se escreve de uma só vez. Ele é construído de `commit` em `commit`."_
+> _"O futuro não se escreve de uma só vez. Ele é construído de `commit` em `commit`..."_
 
 ---
 
