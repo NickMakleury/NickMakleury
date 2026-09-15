@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou Nick Makleury
+# Olá, Eu sou Nick Makleury!
 
 💻 **Desenvolvedor Full Stack**  
 🇧🇷 Brasil
@@ -38,6 +38,32 @@ Tenho foco em **organização**, **desempenho**, **escalabilidade**, **boas prá
 - 📊 Dashboards e relatórios
 - 🎨 Interfaces responsivas
 - 🚀 Soluções para empresas
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🏛️ CENAT — Experiência Imersiva
+
+Site institucional e imersivo desenvolvido para o CENAT, com uma experiência de navegação pelas diferentes salas do museu.
+
+O projeto combina ambientes visuais, animações e interações para criar uma experiência digital mais próxima de uma visita presencial.
+
+**Tecnologias:** HTML, CSS, JavaScript, GSAP, ScrollTrigger e Lenis.
+
+🔗 [Acessar projeto](LINK_DO_CENAT)
+
+---
+
+### 🌌 Parallax — Demonstração Interativa
+
+Projeto de estudo desenvolvido para explorar técnicas de Parallax e criar uma experiência web com profundidade visual e interações baseadas no movimento do usuário.
+
+O projeto utiliza animações vinculadas ao scroll, navegação suave e efeitos visuais interativos.
+
+**Tecnologias:** HTML, CSS, JavaScript, GSAP, ScrollTrigger, Lenis e WebGL.
+
+🔗 [Acessar projeto](https://parallax-kappa-weld.vercel.app/)
 
 ---
 
