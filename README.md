@@ -51,7 +51,7 @@ O projeto combina ambientes visuais, animações e interações para criar uma e
 
 **Tecnologias:** HTML, CSS, JavaScript, GSAP, ScrollTrigger e Lenis.
 
-🔗 [Acessar projeto](LINK_DO_CENAT)
+🔗 [Acessar projeto](https://www.uniaene.edu.br/cenat)
 
 ---
 
