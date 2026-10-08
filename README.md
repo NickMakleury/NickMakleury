@@ -51,7 +51,7 @@ O projeto combina ambientes visuais, animações e interações para criar uma e
 
 **Tecnologias:** HTML, CSS, JavaScript, GSAP, ScrollTrigger e Lenis.
 
-🔗 <a href="https://www.uniaene.edu.br/cenat" target="_blank">Acessar projeto</a>
+🔗 [Acessar projeto](https://www.uniaene.edu.br/cenat)
 
 ---
 
@@ -63,7 +63,7 @@ O projeto utiliza animações vinculadas ao scroll, navegação suave e efeitos 
 
 **Tecnologias:** HTML, CSS, JavaScript, GSAP, ScrollTrigger, Lenis e WebGL.
 
-🔗 <a href="https://parallax-kappa-weld.vercel.app/" target="_blank">Acessar projeto</a>
+🔗 [Acessar projeto](https://parallax-kappa-weld.vercel.app/)
 
 ---
 
@@ -80,7 +80,7 @@ preparando os dados para análise estatística no JASP.
 
 **Tecnologias:** Python, JavaScript, HTML, CSS, xlwings e pywin32.
 
-🔗 <a href="https://sistemapetsaudejasp-main.vercel.app/" target="_blank">Explorar o formulário</a>
+🔗 [Explorar o formulário](https://sistemapetsaudejasp-main.vercel.app/)
 
 > Demonstração da interface. O salvamento no Excel requer o serviço
 > Python e o Microsoft Excel instalados e em execução no computador.
