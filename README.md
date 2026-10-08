@@ -67,6 +67,24 @@ O projeto utiliza animações vinculadas ao scroll, navegação suave e efeitos 
 
 ---
 
+### 🩺 PET Saúde — Digitalização e Padronização de Dados
+
+Sistema desenvolvido para agilizar a digitalização de questionários
+aplicados por uma equipe de saúde em entrevistas de campo.
+
+O projeto transforma respostas de múltipla escolha em variáveis
+binárias (0 e 1) e organiza os dados em 181 colunas padronizadas.
+Um serviço local em Python recebe as respostas, valida sua estrutura
+e registra cada questionário diretamente em uma planilha Excel,
+preparando os dados para análise estatística no JASP.
+
+**Tecnologias:** Python, JavaScript, HTML, CSS, xlwings e pywin32.
+
+🔗 [Explorar o formulário](https://sistemapetsaudejasp-main.vercel.app/)
+
+> Demonstração da interface. O salvamento no Excel requer o serviço
+> Python e o Microsoft Excel instalados e em execução no computador.
+
 ## 🛠️ Stack tecnológica
 
 ### 🌐 Front-end
